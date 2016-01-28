@@ -55,7 +55,7 @@
     "watchify": "^3.7.0",
     "coverify": "^1.4.1",
     "mocaccino": "^1.8.0",
-    "mocha": "^2.3.4",
+    "mocha": "github:boneskull/mocha",
     "phantomic": "^1.4.0",
     "consolify": "^2.1.0",
     "through2": "^2.0.0",
